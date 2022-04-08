@@ -1,0 +1,9 @@
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\bin\Release\StringAnimation.exe.config
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\bin\Release\StringAnimation.exe
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\bin\Release\StringAnimation.pdb
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\obj\Release\StringAnimation.csprojResolveAssemblyReference.cache
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\obj\Release\StringAnimation.Form1.resources
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\obj\Release\StringAnimation.Properties.Resources.resources
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\obj\Release\StringAnimation.csproj.GenerateResource.Cache
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\obj\Release\StringAnimation.exe
+C:\Users\choco\source\repos\StringAnimation\StringAnimation\obj\Release\StringAnimation.pdb
